@@ -1,0 +1,53 @@
+🚨 Detected Anomalies
+==================================================
+
+Flow #6
+------------------------------
+Source IP      : 172.16.1.66
+Destination IP : 172.16.1.4
+Protocol       : 6
+Duration       : 582.57 sec
+Packets        : 797
+Bytes          : 222643
+Bytes/sec      : 382.18
+
+Flow #7
+------------------------------
+Source IP      : 172.16.1.4
+Destination IP : 172.16.1.66
+Protocol       : 6
+Duration       : 582.52 sec
+Packets        : 715
+Bytes          : 191613
+Bytes/sec      : 328.94
+
+Flow #30
+------------------------------
+Source IP      : 172.16.1.66
+Destination IP : 20.7.2.167
+Protocol       : 6
+Duration       : 475.79 sec
+Packets        : 17
+Bytes          : 3677
+Bytes/sec      : 7.73
+
+Flow #39
+------------------------------
+Source IP      : 185.199.110.133
+Destination IP : 172.16.1.66
+Protocol       : 6
+Duration       : 5.99 sec
+Packets        : 582
+Bytes          : 828901
+Bytes/sec      : 138303.91
+
+Flow #41
+------------------------------
+Source IP      : 199.232.196.209
+Destination IP : 172.16.1.66
+Protocol       : 6
+Duration       : 1.13 sec
+Packets        : 6085
+Bytes          : 8868103
+Bytes/sec      : 7817204.88
+

@@ -1,0 +1,27 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.DS_Store
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.log
+*.tmp
+*.pot
+*.sublime-project
+*.sublime-workspace
+
+# GitHub Desktop
+*.lfs.*s
